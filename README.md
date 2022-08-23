@@ -32,4 +32,3 @@ I have used Digital Ocean to deploy this. If you want to learn How to deploy on 
 Visit the Link:
 
 https://www.youtube.com/watch?v=JxH7cdDCFwE
-# OCR-FastApi
